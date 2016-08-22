@@ -51,5 +51,5 @@
 
 ## Author
 
-* 曾剑锋
-* 陈颖奇
+* [曾剑锋](http://www.cnblogs.com/zengjfgit/)
+* [陈颖奇](http://www.cnblogs.com/ChYQ/)
