@@ -1,4 +1,4 @@
-# SocketCan
+# SocketCanJNI
 
 尝试将[libsocket-can-java](https://github.com/AplexOS/libsocket-can-java)移植到Android上的，里面对[libsocket-can-java](https://github.com/AplexOS/libsocket-can-java)添加了注释，发现该库还需要加强。
 
